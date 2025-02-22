@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        jaySky: "#C3EBFA",
+        jaySkyLight: "#EDF9FD",
+        jayPurple: "#CFCEFF",
+        jayPurpleLight: "#F1F8FF",
+        jayYellow: "#FAE27C",
+        jayYellowLight: "#FEFCE8",
       },
     },
   },
